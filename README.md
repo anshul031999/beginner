@@ -7,16 +7,16 @@
 * Clone the repository
 
 ```
-git clone https://github.com/superswan/beginner.git 
+git clone https://github.com/superswan/beginner.git
 ```
 
-* Change directory
+* Changes the directory
 
 ```
 cd beginner
 ```
 
-* Execute code
+* Executing the code
 
 ```
 python palindrome.py
